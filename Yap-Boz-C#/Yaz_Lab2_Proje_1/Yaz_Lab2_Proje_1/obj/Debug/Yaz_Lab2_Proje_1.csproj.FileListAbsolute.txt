@@ -1,0 +1,12 @@
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\bin\Debug\Yaz_Lab2_Proje_1.exe.config
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\bin\Debug\Yaz_Lab2_Proje_1.exe
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\bin\Debug\Yaz_Lab2_Proje_1.pdb
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.csprojResolveAssemblyReference.cache
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.Form1.resources
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.Properties.Resources.resources
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.csproj.GenerateResource.Cache
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.exe
+C:\Users\Y.KAMCI\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.pdb
+C:\Users\cengiz\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\bin\Debug\Yaz_Lab2_Proje_1.exe.config
+C:\Users\cengiz\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.exe
+C:\Users\cengiz\Desktop\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\Yaz_Lab2_Proje_1\obj\Debug\Yaz_Lab2_Proje_1.pdb
